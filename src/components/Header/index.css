@@ -1,0 +1,30 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #272727;
+  padding: 10px;
+}
+.nav-logo {
+  width: 100px;
+}
+.menu-items-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin-left: -40px;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+  margin: 10px;
+}
+.log-out-btn {
+  padding: 10px;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #6366f1;
+}

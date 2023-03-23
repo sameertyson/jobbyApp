@@ -1,0 +1,22 @@
+.home-container {
+  padding: 20px;
+  min-height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-sm-bg.png');
+  background-size: cover;
+  color: #fff;
+}
+@media screen AND (min-width: 768) {
+  .home-container {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+    background-size: cover;
+  }
+}
+
+.find-jos-btn {
+  background-color: #6366f1;
+  padding: 10px;
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+}

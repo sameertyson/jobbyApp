@@ -1,0 +1,36 @@
+.job-item-con {
+  width: 100%;
+  background-color: #272727;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.job-logo-title-con {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.icon-lab-con {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 20px;
+}
+.job-logo {
+  margin-right: 10px;
+}
+.star-icon {
+  margin-right: 20px;
+}
+.job-title {
+  margin-top: -10px;
+}
+.icon-job {
+  margin-right: 10px;
+}
+.package-location-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}

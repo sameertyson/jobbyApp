@@ -1,0 +1,16 @@
+.similar-job-item {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+@media screen AND (min-width: 768px) {
+  .similar-job-item {
+    width: 40%;
+    height: 500px;
+    margin-right: 30px;
+  }
+}
+.job-title {
+  font-size: 18px;
+}
